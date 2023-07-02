@@ -1,5 +1,5 @@
 # Contributing Guidelines
-Thank you for considering contributing to the IBM Data Science Professional Certification Assignments repository! We appreciate your interest in improving and enhancing the content of this repository. To ensure a smooth collaboration, please review and follow the guidelines below when contributing.
+Thank you for considering contributing to the Data Science Projects repository! We appreciate your interest in improving and enhancing the content of this repository. To ensure a smooth collaboration, please review and follow the guidelines below when contributing.
 
 ## How to Contribute
 1. Fork the repository to your GitHub account.
@@ -21,4 +21,4 @@ Thank you for considering contributing to the IBM Data Science Professional Cert
 ## Getting Help
 If you have any questions or need assistance regarding the contribution process or any specific issue, feel free to reach out by creating a new issue in the repository. We will do our best to provide guidance and support.
 
-Thank you for your contributions and for helping to improve the IBM Data Science Professional Certification Assignments repository!
+Thank you for your contributions and for helping to improve the Data Science Projects repository!
