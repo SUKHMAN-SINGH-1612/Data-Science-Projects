@@ -8,7 +8,7 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
 ## License
 This project is licensed under the [MIT License](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes.
 ## Contributing
-Contributions are welcome! If you would like to contribute to this repository, please follow the guidelines outlined in CONTRIBUTING.md. Any improvements, bug fixes, or additional projects are greatly appreciated.
+Contributions are welcome! If you would like to contribute to this repository, please follow the guidelines outlined in [CONTRIBUTING.md](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/CONTRIBUTING.md). Any improvements, bug fixes, or additional projects are greatly appreciated.
 ## Feedback and Contact
 I welcome any feedback, suggestions, or questions you may have about the projects or the repository. Feel free to reach out to me via email at sukhmansinghbhogal@gmail.com
 
