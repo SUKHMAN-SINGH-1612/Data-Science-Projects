@@ -9,6 +9,10 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
    -  **Description:** The project predicts the quality of the wine in the value 0 or 1. 1 for good quality and 0 for bad quality
    - **Technologies Used:** The notebooks uses logistic regression, support vector machine, decision tree and knn
    - **Results:** The logistic regression model performs the best with accuracy of 86.67%
+3. [Heart Stroke Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Heart%20Stroke%20Prediction)
+   -  **Description:** The project predicts the risk of heart stroke on studying the person's demographics and medical info
+   - **Technologies Used:** The notebooks uses logistic regression, support vector machine, decision tree and knn
+   - **Results:** The logistic regression, SVM and KNN performs the best with 93.8 % accuracy
 ## License
 This project is licensed under the [MIT License](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes.
 ## Contributing
