@@ -1,4 +1,5 @@
 # Titanic Survivor Prediction
+![](https://storage.googleapis.com/kaggle-competitions/kaggle/3136/logos/header.png)
 This data science project aims to build a predictive model to answer the question: "What sorts of people were more likely to survive?" using passenger data from the Titanic disaster. The project will analyze various attributes of the passengers, such as their names, ages, genders, socio-economic classes, and more, to predict the likelihood of survival.
 ## Dataset Information
 The dataset used in this project contains information about the passengers who were aboard the Titanic during its ill-fated voyage. It includes a range of features, including the passengers' names, ages, genders, socio-economic classes, cabin information, ticket details, and survival status.
