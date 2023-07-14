@@ -1,4 +1,5 @@
 # House Price Prediction
+![](https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2021/03/chaitali-majumder/house-price-497112-KhCJQICS.jpg)
 This data science project focuses on predicting house prices using a dataset containing various features and attributes related to residential properties. By analyzing and modeling the data, the project aims to develop a predictive model that can estimate the sale prices of houses accurately.
 ## Dataset Information
 The dataset used in this project consists of information about different residential properties. It includes a wide range of features that can potentially influence the price of a house, such as the number of bedrooms, bathrooms, square footage, location, neighborhood characteristics, and other relevant factors.
