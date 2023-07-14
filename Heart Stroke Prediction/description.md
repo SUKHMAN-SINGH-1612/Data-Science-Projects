@@ -1,4 +1,6 @@
 # Stroke Prediction
+![](https://dezyre.gumlet.io/images/blog/heart-disease-prediction-using-machine-learning-project/Heart_Disease_Prediction_using_Machine_Learning.png?w=330&dpr=2.6)
+
 This data science project aims to predict the likelihood of a patient experiencing a stroke based on various input parameters such as gender, age, presence of diseases, and smoking status. The dataset provides relevant information about each patient, enabling the development of a predictive model.
 ## Dataset Information
 The dataset used in this project contains information necessary to predict the occurrence of a stroke. Each row in the dataset represents a patient, and the dataset includes the following attributes:
