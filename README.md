@@ -25,7 +25,7 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
 6. [Diamond Price Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Diamond%20Price%20Prediction)
     -  **Description:** The project predicts the price (in US dollars) of the diamonds based on their features
     - **Technologies Used:** The notebooks uses Descision Tree Regressor and Random Forest Regressor
-    - **Results:** The Decision Tree Regresor performed well on the test dataset with an accuracy of 99.99965%
+    - **Results:** The Decision Tree Regresor performed well on the test dataset with an accuracy of 96%
 ## License
 This project is licensed under the [MIT License](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes.
 ## Contributing
