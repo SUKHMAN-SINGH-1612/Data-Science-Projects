@@ -26,6 +26,10 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
     -  **Description:** The project predicts the price (in US dollars) of the diamonds based on their features
     - **Technologies Used:** The notebooks uses Descision Tree Regressor and Random Forest Regressor
     - **Results:** The Decision Tree Regresor performed well on the test dataset with an accuracy of 96%
+7. [Medical Cost Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Medical%20Cost%20Prediction)
+    - **Description:** The project predicts the medical treatment cost by analysing the patients age, gender, bmi, smoking habits etc.
+    - **Technologies Used:** The notebooks uses Linear and Polynomial Regression, Decision Tree and Random Forest Regressor
+    - **Results:** The Decision Tree Regressor and Random Forest Regressor performed well
 ## License
 This project is licensed under the [MIT License](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes.
 ## Contributing
