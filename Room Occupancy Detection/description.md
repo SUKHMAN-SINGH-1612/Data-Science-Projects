@@ -1,4 +1,5 @@
 # Occupancy Prediction from Sensor Data
+![](https://code.datasciencedojo.com/datasciencedojo/datasets/raw/master/Occupancy%20Detection/O6YGSH0.jpg)
 The Occupancy Prediction project aims to predict whether a room is occupied or not based on the data collected from various sensors. The dataset used in this project is obtained from the UCI Machine Learning Repository and consists of 7 attributes, namely date, temperature, humidity, light, CO2, humidity ratio, and occupancy.
 ## Dataset Description
 The dataset contains experimental data used for binary classification of room occupancy in an office room. The key features used for prediction are Temperature, Humidity, Light, and CO2. The ground-truth occupancy labels were obtained from time-stamped pictures taken every minute.
