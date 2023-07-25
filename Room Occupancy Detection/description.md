@@ -25,3 +25,5 @@ The dataset contains experimental data used for binary classification of room oc
 The primary goal of this project is to build an efficient binary classification model that accurately predicts room occupancy based on sensor data.
 ## Model Selection
 To achieve this goal, machine learning algorithms, random forests was used and it gave an accuracy of 98%.
+## Impact
+The Occupancy Prediction project has the potential to revolutionize various domains, including energy efficiency, resource allocation, safety, and IoT applications. By accurately predicting room occupancy based on sensor data, it can enable smart building automation, optimize resource usage, enhance security measures, and promote sustainable practices. Additionally, it offers valuable insights into occupancy patterns, empowering researchers and policymakers to make informed decisions for a more efficient and comfortable living and working environment.
