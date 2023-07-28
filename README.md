@@ -34,6 +34,11 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
     - **Description:** The project predicts the room occupancy by analyzing the sensor data such as temperature, light and co2 level.
     - **Technologies Used:** The notebooks uses Random Forest Classifier
     - **Results:** The Random Forest Classifier performed well with an accuracy of 98%
+9. [Sleep Disorder Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Sleep%20Disorder%20Prediction)
+    - **Description:** The project aims to predict sleep disorders and their types by analyzing lifestyle and medical variables, such as age, BMI, sleep duration, 
+blood pressure, and more
+    - **Technologies Used:** The notebooks uses Random Forest Classifier and Decision Tree cLassifier
+    - **Results:** The Random Forest Classifier performed well with an accuracy of 89%
 ## License
 This project is licensed under the [MIT License](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes.
 ## Contributing
