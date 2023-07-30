@@ -1,4 +1,5 @@
 # Pima Indian Diabetes Prediction
+![](https://www.cdc.gov/diabetes/images/library/spotlights/diabetes-stats-report-724px.png?_=42420)
 ## Project Overview:
 The primary objective of the Pima Indian Diabetes Prediction project is to analyze various medical factors of female patients, particularly those of Pima Indian heritage and at least 21 years old, to predict whether they have diabetes or not. The dataset used in this project is originally from the National Institute of Diabetes and Digestive and Kidney Diseases, and it includes diagnostic measurements and medical predictor variables.
 ## About the Dataset:
