@@ -39,6 +39,10 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
 blood pressure, and more
     - **Technologies Used:** The notebooks uses Random Forest Classifier and Decision Tree cLassifier
     - **Results:** The Random Forest Classifier performed well with an accuracy of 89%
+10. [Pima Indians Diabetes Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Pima%20Indians%20Diabetes%20Prediction)
+    - **Description:** The primary objective of the Pima Indian Diabetes Prediction project is to analyze various medical factors of female patients, to predict whether they have diabetes or not. 
+    - **Technologies Used:** The notebooks uses Logistic Regression, Random Forest Classifier and Support Vector Machine
+    - **Results:** The Logistic Regression performed with an accuracy of 78%.
 ## License
 This project is licensed under the [MIT License](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes.
 ## Contributing
