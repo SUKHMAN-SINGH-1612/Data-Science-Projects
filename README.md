@@ -54,4 +54,6 @@ Contributions are welcome! If you would like to contribute to this repository, p
 ## Feedback and Contact
 I welcome any feedback, suggestions, or questions you may have about the projects or the repository. Feel free to reach out to me via email at sukhmansinghbhogal@gmail.com
 
+## [Blog](https://sukhman-singh-1612.github.io/data_science/)
+
 Enjoy exploring my data science projects!
