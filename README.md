@@ -43,7 +43,7 @@ blood pressure, and more
     - **Description:** The primary objective of the Pima Indian Diabetes Prediction project is to analyze various medical factors of female patients, to predict whether they have diabetes or not. 
     - **Technologies Used:** The notebooks uses Logistic Regression, Random Forest Classifier and Support Vector Machine
     - **Results:** The Logistic Regression performed with an accuracy of 78%.
-11. [Customer Churn Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Customer%20Churn%20Prediction)
+11. [Bank Customer Churn Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Customer%20Churn%20Prediction)
      - **Description:** The main objective of the Bank Customer Churn Prediction project is to analyze the demographics  in order to predict whether a customer will leave the bank or not.
     - **Technologies Used:** The notebooks uses Random Forest Classifier and Decision Tree Classifier
     - **Results:** The Random Forest Classifier and Decision Tree Classifier performed equally well with an accuracy of 87%
