@@ -51,6 +51,10 @@ blood pressure, and more
      - **Description:** The main objective of the Bank Customer Churn Prediction project is to analyze the demographics  in order to predict whether a customer will leave the bank or not.
     - **Technologies Used:** The notebooks uses Random Forest Classifier and Decision Tree Classifier
     - **Results:** The Random Forest Classifier and Decision Tree Classifier performed equally well with an accuracy of 87%
+12. [Salary Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Salary%20Prediction)
+    - **Description:** The main objective of the Salary Prediction project is analyze the employee's demographics such as  age, experience job title, country and race to predicts the salary.
+    - **Technologies Used:** The notebooks uses Descision Tree Regressor and Random Forest Regressor
+    - **Results:** The Random Forest Regressor performed best with 94.6% accuracy
 ## License
 This project is licensed under the [MIT License](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes.
 ## Contributing
