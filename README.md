@@ -59,6 +59,7 @@ blood pressure, and more
     - **Description:** he primary objective is to develop a predictive model that can accurately estimate the prices of houses based on several key features present in the dataset. 
     - **Technologies Used:** The notebooks uses Descision Tree Regressor and Random Forest Regressor
     - **Results:** The Random Forest Regressor performed best with 84.98% accuracy
+      
 ## License
 This project is licensed under the [MIT License](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes.
 ## Contributing
