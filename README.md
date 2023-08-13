@@ -55,6 +55,10 @@ blood pressure, and more
     - **Description:** The main objective of the Salary Prediction project is analyze the employee's demographics such as  age, experience job title, country and race to predicts the salary.
     - **Technologies Used:** The notebooks uses Descision Tree Regressor and Random Forest Regressor
     - **Results:** The Random Forest Regressor performed best with 94.6% accuracy
+13. [Delhi House Price Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Delhi%20House%20Price%20Prediction)
+    - **Description:** he primary objective is to develop a predictive model that can accurately estimate the prices of houses based on several key features present in the dataset. 
+    - **Technologies Used:** The notebooks uses Descision Tree Regressor and Random Forest Regressor
+    - **Results:** The Random Forest Regressor performed best with 84.98% accuracy
 ## License
 This project is licensed under the [MIT License](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes.
 ## Contributing
