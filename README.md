@@ -59,6 +59,10 @@ blood pressure, and more
     - **Description:** he primary objective is to develop a predictive model that can accurately estimate the prices of houses based on several key features present in the dataset. 
     - **Technologies Used:** The notebooks uses Descision Tree Regressor and Random Forest Regressor
     - **Results:** The Random Forest Regressor performed best with 84.98% accuracy
+14. [Loan Approval Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Loan%20Approval%20Prediction)
+    - **Description:** The Loan Approval Prediction project aims to predict whether a loan application will be approved by a bank.
+    - **Technologies Used:** The notebooks uses Random Forest Classifier and Decision Tree Classifier
+    - **Results:** The Decision Tree Classifier performed well with an accuracy of 91.4%
       
 ## License
 This project is licensed under the [MIT License](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes.
