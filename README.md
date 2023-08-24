@@ -63,6 +63,11 @@ blood pressure, and more
     - **Description:** The Loan Approval Prediction project aims to predict whether a loan application will be approved by a bank.
     - **Technologies Used:** The notebooks uses Random Forest Classifier and Decision Tree Classifier
     - **Results:** The Decision Tree Classifier performed well with an accuracy of 91.4%
+15. [Cardiovascular Disease Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Cardiovascular%20Disease%20Prediction)
+    - **Description:** The Cardiovascular Disease Prediction project aims to predict the occurrence of cardiovascular disease in patients based on their medical records and history.
+    - **Technologies Used:** The notebooks uses Random Forest Classifier, Decision Tree Classifier and Logistic Regression
+    - **Results:** The Logistic Regression performed well with an accuracy of 91.4%
+    
       
 ## License
 This project is licensed under the [MIT License](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes.
