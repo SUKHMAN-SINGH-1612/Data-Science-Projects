@@ -71,6 +71,10 @@ blood pressure, and more
     - **Description:** The Belarus Car Price Prediction project aims to predict the price of car in Belarus based on car features.
     - **Technologies Used:** The notebooks uses Decision Tree Regressor
     - **Results:** The Decision Tree Regressor gave an accuracy of 86.29%
+17. [Warranty Claims Fraud Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Warranty%20Claims%20Fraud%20Prediction)
+    - **Description:** The aim of this data science project is to predict the authenticity of warranty claims by analyzing various factors such as region, product category, claim value, and more.
+    - **Technologies Used:** The notebooks uses Decision Tree Classifier, Random Forest Classifier and Logistic Regression
+    - **Results:** All three models gave an acuuracy of 91-92%
 ## License
 This project is licensed under the [MIT License](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes.
 ## Contributing
