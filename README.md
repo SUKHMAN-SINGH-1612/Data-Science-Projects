@@ -80,6 +80,10 @@ blood pressure, and more
     - **Description:** The aim of this data science project is to predict the authenticity of warranty claims by analyzing various factors such as region, product category, claim value, and more.
     - **Technologies Used:** The notebooks uses Decision Tree Classifier, Random Forest Classifier and Logistic Regression
     - **Results:** All three models gave an accuracy of 91-92%
+18. [E-Commerce Product Delivery Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/E-Commerce%20Product%20Delivery%20Prediction)
+    - **Description:**The aim of this project is to predict whether products from an international e-commerce company will reach customers on time or not.
+    - **Technologies Used:** The notebooks uses Decision Tree Classifier, Random Forest Classifier, Logistic Regression and KNN Classifier
+    - **Results:** The decision tree classifier model performed best with 69% accuracy
 ## License
 This project is licensed under the [MIT License](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes.
 ## Contributing
