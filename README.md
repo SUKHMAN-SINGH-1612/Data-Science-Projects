@@ -88,6 +88,10 @@ blood pressure, and more
     - **Description:** The aim of this project to predict the possible reservations that are going to cancelled by the customers by analyzing various features and variables associated with the reservation.
     - **Technologies Used:** The notebooks uses Decision Tree Classifier, Random Forest Classifier and Logistic Regression.
     - **Results:** The decision tree classifier model performed best with 85% accuracy
+20. [Telecom Customer Churn Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Telecom%20Customer%20Churn%20Prediction)
+    - **Description:** The aim of this project is to analyze customer demographics, services, tenure and other variables to predict whether a particular customer will churn or not.
+    - **Technologies Used:** The notebooks uses Decision Tree Classifier, Random Forest Classifier and K Nearest Neighbor Classifier.
+    - **Results:** The random forest classifier model performed best with 82% accuracy
 ## License
 This project is licensed under the [MIT License](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes.
 ## Contributing
