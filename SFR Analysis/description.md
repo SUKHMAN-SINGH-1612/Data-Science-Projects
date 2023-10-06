@@ -1,5 +1,5 @@
 # Space Fund Realty (SFR) Analysis
-
+![](https://c4.wallpaperflare.com/wallpaper/81/233/257/smoke-cape-canaveral-rocket-falcon-9-wallpaper-preview.jpg)
 ## Project Overview
 The Space Fund Realty (SFR) Analysis project aims to provide valuable insights into aerospace companies and their missions, ultimately assisting investors in making informed decisions. The SFR is a crucial rating system that evaluates companies based on their missions, payload, launch costs, and other factors, providing an indication of their development and stability. The SFR rating ranges from 1 to 9, with higher ratings signifying more developed companies.
 
