@@ -92,6 +92,10 @@ blood pressure, and more
     - **Description:** The aim of this project is to analyze customer demographics, services, tenure and other variables to predict whether a particular customer will churn or not.
     - **Technologies Used:** The notebooks uses Decision Tree Classifier, Random Forest Classifier and K Nearest Neighbor Classifier.
     - **Results:** The random forest classifier model performed best with 82% accuracy
+21. [SFR Analysis](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/SFR%20Analysis)
+    - **Description:** The objective of this project is to analyze the SFR (SpaceFund Realty) of the aerospace companies and their missions in order to help the investors to make better decisions.
+    - **Technologies Used:** The notebooks uses Decision Tree Classifier, Random Forest Classifier.
+    - **Results:** The random forest classifier and decision tree classifier gave 87% accuracy
 ## License
 This project is licensed under the [MIT License](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes.
 ## Contributing
