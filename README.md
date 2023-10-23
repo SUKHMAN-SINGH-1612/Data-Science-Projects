@@ -5,8 +5,6 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
  ![GitHub Repo stars](https://img.shields.io/github/stars/SUKHMAN-SINGH-1612/Data-Science-Projects?style=social)  ![GitHub forks](https://img.shields.io/github/forks/SUKHMAN-SINGH-1612/Data-Science-Projects?style=social)
 
 
-
-
 ### GitHub Page 
 [![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://sukhman-singh-1612.github.io/data_science/)
 
@@ -95,7 +93,11 @@ blood pressure, and more
 21. [SFR Analysis](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/SFR%20Analysis)
     - **Description:** The objective of this project is to analyze the SFR (SpaceFund Realty) of the aerospace companies and their missions in order to help the investors to make better decisions.
     - **Technologies Used:** The notebooks uses Decision Tree Classifier, Random Forest Classifier.
-    - **Results:** The random forest classifier and decision tree classifier gave 87% accuracy
+    - **Results:** The random forest classifier and decision tree classifier gave 87% accuracy.
+22. [Indian Used Car Price Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Indian%20Used%20Car%20Price%20Prediction)
+    - **Description:** The aim of this data science project is to predict the price of used cars in major Indian metro cities.
+    - **Technologies Used:** The notebooks uses Decision Tree Regressor and Random Forest Regressor.
+    - **Results:** The random forest regressor gave 87.8% accuracy
 ## License
 This project is licensed under the [MIT License](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes.
 ## Contributing
