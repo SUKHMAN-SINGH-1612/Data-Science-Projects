@@ -98,7 +98,7 @@ blood pressure, and more
     - **Description:** The aim of this data science project is to predict the price of used cars in major Indian metro cities.
     - **Technologies Used:** The notebooks uses Decision Tree Regressor and Random Forest Regressor.
     - **Results:** The random forest regressor gave 87.8% accuracy
-23. [Crop Yield](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Crop%20Yield%20Prediction)
+23. [Crop Yield Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Crop%20Yield%20Prediction)
     - **Description:** The aim of this data science project is to predict crop yield using the dataset provided from Crop Yield Prediction..
     - **Technologies Used:** The notebooks uses Decision Tree Regressor and Random Forest Regressor.
     - **Results:** The random forest regressor gave 80.2% accuracy
