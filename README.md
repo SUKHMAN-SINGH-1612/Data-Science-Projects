@@ -103,7 +103,7 @@ blood pressure, and more
     - **Technologies Used:** The notebooks uses Decision Tree Regressor and Random Forest Regressor.
     - **Results:** The random forest regressor gave 80.2% accuracy
 ## License
-This project is licensed under the [MIT License](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes.
+This project is licensed under the [MIT License](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes with citation or reference to the original code and resources used.
 ## Contributing
 Contributions are welcome! If you would like to contribute to this repository, please follow the guidelines outlined in [CONTRIBUTING.md](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/CONTRIBUTING.md). Any improvements, bug fixes, or additional projects are greatly appreciated.
 ## Feedback and Contact
