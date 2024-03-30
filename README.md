@@ -102,8 +102,8 @@ blood pressure, and more
     - **Description:** The aim of this data science project is to predict crop yield using the dataset provided from Crop Yield Prediction..
     - **Technologies Used:** The notebooks uses Decision Tree Regressor and Random Forest Regressor.
     - **Results:** The random forest regressor gave 80.2% accuracy
-23. [Osteoporosis Risk Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Osteoporosis%20Risk%20Prediction)
-    - **Description:**The aim of this project is to predict the risk of osteoporosis in patients using a dataset of patients' medical records.
+24. [Osteoporosis Risk Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Osteoporosis%20Risk%20Prediction)
+    - **Description:** The aim of this project is to predict the risk of osteoporosis in patients using a dataset of patients' medical records.
     - **Technologies Used:** The notebooks uses Logistic Regression, Random Tree, Decision Tree and Support Vector Classifier.
     - **Results:** The Decision Tree Classifier gave 87% accuracy
 ## License
