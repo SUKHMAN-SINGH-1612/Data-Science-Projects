@@ -106,6 +106,9 @@ blood pressure, and more
     - **Description:** The aim of this project is to predict the risk of osteoporosis in patients using a dataset of patients' medical records.
     - **Technologies Used:** The notebooks uses Logistic Regression, Random Tree, Decision Tree and Support Vector Classifier.
     - **Results:** The Decision Tree Classifier gave 87% accuracy
+24. [Calgary Crime Data Analysis and Neural Network Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Osteoporosis%20Risk%20Prediction)
+    - **Description:** The aim of this project is to analysis the crime reportings from 2018 to April 2024 in the city of Calgary and predict the crime count using neural network.
+    - **Technologies Used:** The notebooks uses LSTM Neural Network to predict the crime count by using adam optimizer.
 ## License
 This project is licensed under the [MIT License](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes with citation or reference to the original code and resources used.
 ## Contributing
