@@ -114,6 +114,10 @@ This project is licensed under the [MIT License](https://github.com/SUKHMAN-SING
 ## Contributing
 Contributions are welcome! If you would like to contribute to this repository, please follow the guidelines outlined in [CONTRIBUTING.md](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/blob/main/CONTRIBUTING.md). Any improvements, bug fixes, or additional projects are greatly appreciated.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SUKHMAN-SINGH-1612/Data-Science-Projects&type=Timeline)](https://star-history.com/#SUKHMAN-SINGH-1612/Data-Science-Projects&Timeline)
+
 ## 👋 **Join the Discussion!**
 We believe in the power of community and collaboration. Head over to our [Discussion Page](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/discussions) to engage with fellow data enthusiasts, share your ideas, ask questions, and contribute to our vibrant community. Whether you're a seasoned data scientist or just starting out, your voice matters! Let's learn, grow, and innovate together. See you there! 🚀
 
